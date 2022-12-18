@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on freelance<br>🤝 I’m looking for help with ECommerce projects<br>🌱 I’m currently learning React.js Python Node.js Redux TypeScript<br>⚡ LET'S FIGHT ON THE KEYBOARD
+# LET'S FIGHT ON THE KEYBOARD
 
 
 ## 🌐 Socials:
